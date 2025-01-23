@@ -1,0 +1,70 @@
+initial commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .idea/.gitignore
+#	new file:   .idea/modules.xml
+#	new file:   .idea/next-learning.iml
+#	new file:   .idea/vcs.xml
+#	new file:   README.md
+#	new file:   index.js
+#	new file:   nextjs-dashboard/.env.example
+#	new file:   nextjs-dashboard/.gitignore
+#	new file:   nextjs-dashboard/README.md
+#	new file:   nextjs-dashboard/app/dashboard/customers/page.tsx
+#	new file:   nextjs-dashboard/app/dashboard/invoices/page.tsx
+#	new file:   nextjs-dashboard/app/dashboard/layout.tsx
+#	new file:   nextjs-dashboard/app/dashboard/page.tsx
+#	new file:   nextjs-dashboard/app/layout.tsx
+#	new file:   nextjs-dashboard/app/lib/data.ts
+#	new file:   nextjs-dashboard/app/lib/definitions.ts
+#	new file:   nextjs-dashboard/app/lib/placeholder-data.ts
+#	new file:   nextjs-dashboard/app/lib/utils.ts
+#	new file:   nextjs-dashboard/app/page.tsx
+#	new file:   nextjs-dashboard/app/query/route.ts
+#	new file:   nextjs-dashboard/app/seed/route.ts
+#	new file:   nextjs-dashboard/app/ui/acme-logo.tsx
+#	new file:   nextjs-dashboard/app/ui/button.tsx
+#	new file:   nextjs-dashboard/app/ui/customers/table.tsx
+#	new file:   nextjs-dashboard/app/ui/dashboard/cards.tsx
+#	new file:   nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx
+#	new file:   nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+#	new file:   nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx
+#	new file:   nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+#	new file:   nextjs-dashboard/app/ui/fonts.ts
+#	new file:   nextjs-dashboard/app/ui/global.css
+#	new file:   nextjs-dashboard/app/ui/home.module.css
+#	new file:   nextjs-dashboard/app/ui/invoices/breadcrumbs.tsx
+#	new file:   nextjs-dashboard/app/ui/invoices/buttons.tsx
+#	new file:   nextjs-dashboard/app/ui/invoices/create-form.tsx
+#	new file:   nextjs-dashboard/app/ui/invoices/edit-form.tsx
+#	new file:   nextjs-dashboard/app/ui/invoices/pagination.tsx
+#	new file:   nextjs-dashboard/app/ui/invoices/status.tsx
+#	new file:   nextjs-dashboard/app/ui/invoices/table.tsx
+#	new file:   nextjs-dashboard/app/ui/login-form.tsx
+#	new file:   nextjs-dashboard/app/ui/search.tsx
+#	new file:   nextjs-dashboard/app/ui/skeletons.tsx
+#	new file:   nextjs-dashboard/next.config.ts
+#	new file:   nextjs-dashboard/package.json
+#	new file:   nextjs-dashboard/pnpm-lock.yaml
+#	new file:   nextjs-dashboard/postcss.config.js
+#	new file:   nextjs-dashboard/public/customers/amy-burns.png
+#	new file:   nextjs-dashboard/public/customers/balazs-orban.png
+#	new file:   nextjs-dashboard/public/customers/delba-de-oliveira.png
+#	new file:   nextjs-dashboard/public/customers/evil-rabbit.png
+#	new file:   nextjs-dashboard/public/customers/lee-robinson.png
+#	new file:   nextjs-dashboard/public/customers/michael-novotny.png
+#	new file:   nextjs-dashboard/public/favicon.ico
+#	new file:   nextjs-dashboard/public/hero-desktop.png
+#	new file:   nextjs-dashboard/public/hero-mobile.png
+#	new file:   nextjs-dashboard/public/opengraph-image.png
+#	new file:   nextjs-dashboard/tailwind.config.ts
+#	new file:   nextjs-dashboard/tsconfig.json
+#	new file:   package.json
+#
